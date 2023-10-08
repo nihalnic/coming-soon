@@ -20,7 +20,7 @@
 
 
  // -- Launch time - for a reason
- const countDownDate = new Date("2023-10-07 00:00:00").getTime()
+ const countDownDate = new Date("2023-12-31 00:00:00").getTime()
 
  let x = setInterval(function () {
    let now = new Date().getTime()
